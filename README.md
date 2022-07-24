@@ -11,6 +11,7 @@ LUA
 ### Dependencies?
 [ox_lib](https://github.com/overextended/ox_lib)
 [h-interactions](https://github.com/SilverGoLt/h-interactions)
+[qb-core](https://github.com/qbcore-framework/qb-core)
 
 
 ## Authors
