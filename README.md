@@ -1,10 +1,4 @@
-# H-Interactions
-
-
-
-
-![Logo](https://i.imgur.com/6EETSBk.png)
-
+# H-Mining
 
 ## FAQ
 
